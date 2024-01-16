@@ -6,4 +6,6 @@ Just some random tools, mostly for school. Decided to share them publicly 'cuz w
 
 ## List of tools
 
-1. **Elasticity Solver**
+|Title|Description|
+|-|-|
+|[**Elasticity Solver**](SolvingElasticity.html)|Solves for demand elasticity *with* solution|
